@@ -14,6 +14,7 @@ Part of the project of this website for me is to shift away from being a consume
 
 So without further ado, here is the BIG LIST.  It is full of things I want to accomplish or create.  Some of the things on the list are more flushed out than others, but it will be my reference point for all the blogs I write about my transition from consumer to creator.  
 
+### The Big List
 
 
 ### Contact me
